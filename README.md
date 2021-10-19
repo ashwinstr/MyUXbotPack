@@ -1,17 +1,12 @@
-# MyGpack
+# MySedexPack
 
-### X Deploy Edition
-
-<p align="center">
-
-<a href = "https://heroku.com/deploy?template=https://github.com/ashwinstr/MyGpack"><img src="https://www.herokucdn.com/deploy/button.svg" alt="MyGpac"> </a>
-
-</p>
+### Sedex Deploy Edition
 
 ## Credits
 
 - @midnightmadwalk
 - @DeletedUser420
+- @Kakashi_HTK
 
 ## Based on:
 
