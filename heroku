@@ -77,7 +77,7 @@ _startbot () {
     cd "sedex"
     git init > /dev/null 2>&1
     echo -e ">><< --- >><<  Starting [sedex]  >><< --- >><<\n" | indent
-    bash jutsu/__main__.py
+    python -m jutsu
 }
 
 begin_x () {
