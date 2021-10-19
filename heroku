@@ -22,21 +22,29 @@ _done () {
 _displaylogo () {
     echo '
 ===========================================
-
-  ▄████  ██▓███   ▄▄▄       ▄████▄   ██ ▄█▀
- ██▒ ▀█▒▓██░  ██▒▒████▄    ▒██▀ ▀█   ██▄█▒ 
-▒██░▄▄▄░▓██░ ██▓▒▒██  ▀█▄  ▒▓█    ▄ ▓███▄░ 
-░▓█  ██▓▒██▄█▓▒ ▒░██▄▄▄▄██ ▒▓▓▄ ▄██▒▓██ █▄ 
-░▒▓███▀▒▒██▒ ░  ░ ▓█   ▓██▒▒ ▓███▀ ░▒██▒ █▄
- ░▒   ▒ ▒▓▒░ ░  ░ ▒▒   ▓▒█░░ ░▒ ▒  ░▒ ▒▒ ▓▒
-  ░   ░ ░▒ ░       ▒   ▒▒ ░  ░  ▒   ░ ░▒ ▒░
-░ ░   ░ ░░         ░   ▒   ░        ░ ░░ ░ 
-      ░                ░  ░░ ░      ░  ░   
-                           ░               
+                                                                                                 
+                                                   dddddddd                                      
+   SSSSSSSSSSSSSSS                                 d::::::d                                      
+ SS:::::::::::::::S                                d::::::d                                      
+S:::::SSSSSS::::::S                                d::::::d                                      
+S:::::S     SSSSSSS                                d:::::d                                       
+S:::::S                eeeeeeeeeeee        ddddddddd:::::d     eeeeeeeeeeee  xxxxxxx      xxxxxxx
+S:::::S              ee::::::::::::ee    dd::::::::::::::d   ee::::::::::::ee x:::::x    x:::::x 
+ S::::SSSS          e::::::eeeee:::::ee d::::::::::::::::d  e::::::eeeee:::::eex:::::x  x:::::x  
+  SS::::::SSSSS    e::::::e     e:::::ed:::::::ddddd:::::d e::::::e     e:::::e x:::::xx:::::x   
+    SSS::::::::SS  e:::::::eeeee::::::ed::::::d    d:::::d e:::::::eeeee::::::e  x::::::::::x    
+       SSSSSS::::S e:::::::::::::::::e d:::::d     d:::::d e:::::::::::::::::e    x::::::::x     
+            S:::::Se::::::eeeeeeeeeee  d:::::d     d:::::d e::::::eeeeeeeeeee     x::::::::x     
+            S:::::Se:::::::e           d:::::d     d:::::d e:::::::e             x::::::::::x    
+SSSSSSS     S:::::Se::::::::e          d::::::ddddd::::::dde::::::::e           x:::::xx:::::x   
+S::::::SSSSSS:::::S e::::::::eeeeeeee   d:::::::::::::::::d e::::::::eeeeeeee  x:::::x  x:::::x  
+S:::::::::::::::SS   ee:::::::::::::e    d:::::::::ddd::::d  ee:::::::::::::e x:::::x    x:::::x 
+ SSSSSSSSSSSSSSS       eeeeeeeeeeeeee     ddddddddd   ddddd    eeeeeeeeeeeeeexxxxxxx      xxxxxxx
+                                                                                                 
 ===========================================
 |            VERSION  v0.1.0              |
 |            By: @Kakashi_HTK             |
-|           (C) 2021 - USERGE-X           |
+|           (C) 2021 -Sedex               |
 ===========================================
 '
 }
