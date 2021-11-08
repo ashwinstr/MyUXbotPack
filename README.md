@@ -1,6 +1,6 @@
-# MySedexPack
+# MyTG-BotPack
 
-### Sedex Deploy Edition
+### TG-Bot Deploy Edition
 
 ## Credits
 
