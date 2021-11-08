@@ -2,6 +2,7 @@
 emoji
 gitpython
 heroku3
+motor
 Pyrogram
 python-decouple
 TgCrypto
