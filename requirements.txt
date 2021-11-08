@@ -1,9 +1,8 @@
 # git+https://github.com/ashwinstr/pyrogram.git@x21
-emoji
+dnspython
 gitpython
 heroku3
 motor
 Pyrogram
 python-decouple
 TgCrypto
-Unidecode
