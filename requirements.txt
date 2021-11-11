@@ -5,4 +5,5 @@ heroku3
 motor
 Pyrogram
 python-decouple
+telegraph
 TgCrypto
